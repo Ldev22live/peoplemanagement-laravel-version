@@ -1,0 +1,13 @@
+[90m= [39m[34;4mApp\Models\Person[39;24m {#6349
+    [34mname[39m: "[32mJohn[39m",
+    [34msurname[39m: "[32mDoe[39m",
+    [34mid_number[39m: "[32m1234567890123[39m",
+    [34mmobile_number[39m: "[32m0712345678[39m",
+    [34memail[39m: "[32mjohn@example.com[39m",
+    [34mbirth_date[39m: "[32m1990-05-15[39m",
+    [34mlanguage_id[39m: [35m1[39m,
+    [34mupdated_at[39m: "[32m2025-08-04 14:25:40[39m",
+    [34mcreated_at[39m: "[32m2025-08-04 14:25:40[39m",
+    [34mid[39m: [35m2[39m,
+  }
+

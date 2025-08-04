@@ -1,0 +1,10 @@
+[90m= [39m[
+    "[34mname[39m" => "[32mJohn[39m",
+    "[34msurname[39m" => "[32mDoe[39m",
+    "[34mid_number[39m" => "[32m1234567890123[39m",
+    "[34mmobile_number[39m" => "[32m0712345678[39m",
+    "[34memail[39m" => "[32mjohn@example.com[39m",
+    "[34mbirth_date[39m" => "[32m1990-05-15[39m",
+    "[34mlanguage_id[39m" => [35m1[39m,
+  ]
+
