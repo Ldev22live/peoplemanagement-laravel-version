@@ -70,3 +70,16 @@ CREATE TABLE IF NOT EXISTS people_interests (
     FOREIGN KEY (person_id) REFERENCES people(id) ON DELETE CASCADE,
     FOREIGN KEY (interest_id) REFERENCES interests(id) ON DELETE CASCADE
 );
+
+INSERT INTO users (username, password, email, firstname, lastname, role, created_at, updated_at)
+VALUES (
+    'test',
+    '$2y$10$wHnZrHxFzXnM9qOvZZi6/O7n5xXfMmw6hJvHbFJPG0sKM5uk4ibZq', 
+    'test@example.com',
+    'Test',
+    'User',
+    'admin',
+    NOW(),
+    NOW()
+);
+
